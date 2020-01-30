@@ -19,6 +19,10 @@ You need to generate the node_modules folder in order to be able to deploy the a
 Finally, use the following command: ng serve --open  .
 
 
+Currently, the app presents issues to get data from the services (CORS configuration).
+
+
+
 
 
 
